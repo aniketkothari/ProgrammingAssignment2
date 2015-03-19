@@ -1,4 +1,4 @@
-## This pair of fucntions caches the inverse of a matrix
+## This pair of functions cache the inverse of a matrix
 ## as matrix inversion is usually a costly computation and 
 ## there may be some benefit to caching the inverse of a 
 ## matrix rather than compute it repeatedly
